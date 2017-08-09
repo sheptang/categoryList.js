@@ -1,0 +1,23 @@
+/*
+
+core.css is not bound for any other file, only for demo design.
+
+*/
+
+*{
+	font-family:Arial,sans-serif;
+	font-size:12pt;
+}
+
+body{
+	padding:50px 0 0 50px;
+}
+
+label{
+	user-select:none;
+	cursor:pointer;
+}
+
+div{
+	margin-bottom:10px;
+}
