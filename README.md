@@ -23,7 +23,7 @@ Demo view is under construction.
 Installation
 ------------
 
-- `categoryList.js` file should be included
+- `categoryList.js` or `categoryList.min.js` file should be included
 - jQuery should be included
 - `onclick="checkboxClick(this.id)"` should be implemented to every `checkbox` type `input` element.
 
