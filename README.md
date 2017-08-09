@@ -1,6 +1,9 @@
 Nested Checkbox Manager
 =======================
 
+This plugin is being developed under [GNU General Public License v3.0.](https://github.com/sheptang/categoryList.js/blob/master/LICENSE)
+Please click the license link for further information about contribution.
+
 # categoryList.js
 
 categoryList.js is a [jQuery](http://jquery.com/) plugin which manages the checkboxes' "checked" or "unchecked" status according to their hierarchy. If any checkbox in the nest is clicked, the function either checks or unchecks other related checkboxes.
