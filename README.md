@@ -8,7 +8,7 @@ categoryList.js is a [jQuery](http://jquery.com/) plugin which manages the check
 Documentation
 -------------
 
-checkboxClick function can be implemented to any `checkbox` type `input` element by adding
+checkboxClick function can be implemented to every `checkbox` type `input` element by adding
 
 	onclick="checkboxClick(this.id)"
 
@@ -22,5 +22,8 @@ Installation
 
 - `categoryList.js` file should be included
 - jQuery should be included
+
+		onclick="checkboxClick(this.id)"
+should be implemented to every `checkbox` type `input` element.
 
 As soon as there is no change in class names and function names, the module should work right away.
