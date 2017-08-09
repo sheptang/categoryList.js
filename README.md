@@ -9,7 +9,7 @@ Documentation
 -------------
 
 checkboxClick function can be implemented to any `checkbox` type `input` element by adding
-  onclick="checkboxClick(this.id)"
+	onclick="checkboxClick(this.id)"
 
 Demo
 ----
