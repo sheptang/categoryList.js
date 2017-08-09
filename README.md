@@ -22,8 +22,6 @@ Installation
 
 - `categoryList.js` file should be included
 - jQuery should be included
-
-		onclick="checkboxClick(this.id)"
-should be implemented to every `checkbox` type `input` element.
+- `onclick="checkboxClick(this.id)"` should be implemented to every `checkbox` type `input` element.
 
 As soon as there is no change in class names and function names, the module should work right away.
