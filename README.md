@@ -18,7 +18,7 @@ checkboxClick function can be implemented to every `checkbox` type `input` eleme
 Demo
 ----
 
-Demo view is under construction.
+[Demo view](http://sheptang.com/software/categoryList/) is still under construction.
 
 Installation
 ------------
